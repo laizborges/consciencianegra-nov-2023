@@ -1,0 +1,56 @@
+@charset "utf-8";
+
+header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+ 
+   
+   
+
+}
+
+h1 {
+    background-color: rgb(255, 178, 191);
+    color: aliceblue;
+   padding-top: 50px;
+   padding-bottom: 30px;
+}
+
+
+img {
+    width: 400px;
+    height: 290px;
+    border-radius: 7px;
+}
+
+p {
+    text-align: justify;
+    margin-left: 249px;
+    margin-right: 250px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+h2 {
+    text-align: center;
+   color: rgb(128, 42, 42);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px; 
+}
+
+footer {
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(255, 178, 191);
+}
+
+.zumbi {
+    width: 400px;
+    height: 290px;
+    border-radius: 7px;
+    margin-left: 550px;
+    
+}
+
